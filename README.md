@@ -6,4 +6,5 @@ The images used can be found in the images folder.
 
 The program can be run using the .jar file or .exe file (you need java runtime 1.6.0 at least)
 
+Install java : https://java.com/en/download/
 Video showcasing the program : https://www.youtube.com/watch?v=cHt9N2LWilg
